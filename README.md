@@ -1,6 +1,10 @@
 # Academic Portfolio - Documents
 Digital Evidence Forensic Weekly Report
 
+
+# Table of Contents
+
+- [Risk Management Plan](#risk-management-plan)
 -------------
 
 ![Digital Evidence Forensic Weekly Report_Page_1](https://github.com/user-attachments/assets/822a31eb-b015-4b8c-ab35-4325dae94e4f)
@@ -13,7 +17,7 @@ Digital Evidence Forensic Weekly Report
 ![Digital Evidence Forensic Weekly Report_Page_8](https://github.com/user-attachments/assets/992284aa-8d80-47cb-a81a-5d6a6a5c4946)
 ![Digital Evidence Forensic Weekly Report_Page_9](https://github.com/user-attachments/assets/a37f885c-dfc6-42f6-8ec4-4baa89731542)
 ------------
-Risk Management Plan
+### Risk Management Plan
 ------------
 ![Risk Management Plan_Page_1](https://github.com/user-attachments/assets/cf89d9d6-9ae9-4a7a-8755-313e284dd4cf)
 ![Risk Management Plan_Page_2](https://github.com/user-attachments/assets/41661c18-53d5-4418-9cfe-88b37adc59af)
