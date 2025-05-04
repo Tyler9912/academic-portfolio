@@ -1,12 +1,16 @@
 # Academic Portfolio - Documents
-Digital Evidence Forensic Weekly Report
 
 
+---
 # Table of Contents
 
+- [Digital Evidence Forensic Weekly Report](#digital-evidence-forensic-report)
 - [Risk Management Plan](#risk-management-plan)
+- [Disk Encryption Technology](#disk-encryption-tech)
+- [Symmetric vs Asymmetric Encryption](#symmetricvsasymmetric)
 -------------
-
+### Digital Evidence Forensic Weekly Report
+-------------
 ![Digital Evidence Forensic Weekly Report_Page_1](https://github.com/user-attachments/assets/822a31eb-b015-4b8c-ab35-4325dae94e4f)
 ![Digital Evidence Forensic Weekly Report_Page_2](https://github.com/user-attachments/assets/363241d4-71d6-406c-9788-195a080c6b09)
 ![Digital Evidence Forensic Weekly Report_Page_3](https://github.com/user-attachments/assets/be5ef708-31ed-4e11-9b90-c124605a90af)
@@ -27,14 +31,14 @@ Digital Evidence Forensic Weekly Report
 ![Risk Management Plan_Page_6](https://github.com/user-attachments/assets/aefa29ca-a2df-4235-9d1f-248ef9c213ee)
 ![Risk Management Plan_Page_7](https://github.com/user-attachments/assets/b1f39020-b62e-4ed2-9810-fa6972788869)
 ------------
-Disk Encryption Technology
+### Disk Encryption Technology
 ------------
 ![Disk Encryption Technology docx_Page_1](https://github.com/user-attachments/assets/aaf2cc1a-1e9a-4f98-8e10-b36f75244d53)
 ![Disk Encryption Technology docx_Page_2](https://github.com/user-attachments/assets/a0b215e6-c31d-4804-b97a-b7520fe0de42)
 ![Disk Encryption Technology docx_Page_3](https://github.com/user-attachments/assets/4d36b30d-a4e9-434c-afe3-ea7ccb21054c)
 ![Disk Encryption Technology docx_Page_4](https://github.com/user-attachments/assets/3a18d4fc-c241-42d4-8282-e5ba1d885eea)
 ------------
-Symmetric vs Asymmetric Encryption
+### Symmetric vs Asymmetric Encryption
 ------------
 ![symmetric vs asymmetric encryption docx_Page_1](https://github.com/user-attachments/assets/df1c6581-657a-4bbd-ae71-9d24a0a3dfd0)
 ![symmetric vs asymmetric encryption docx_Page_2](https://github.com/user-attachments/assets/2f80b960-cafd-40ec-8e9b-67a7663dcae5)
