@@ -1,4 +1,4 @@
-# academic-portfolio
+# Academic Portfolio
 Digital EvidenceForensic Weekly Report
 
 -------------
