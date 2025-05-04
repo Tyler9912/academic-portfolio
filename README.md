@@ -1,5 +1,5 @@
 # Academic Portfolio - Documents
-
+Supplemental documentation that pertains to my educational pursuits 
 
 ---
 # Table of Contents
