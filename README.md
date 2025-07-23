@@ -1,29 +1,64 @@
-# Academic Portfolio - Documents
-Supplemental documentation that pertains to my educational pursuits 
+# 🧠 Tyler Chotikamars – Academic Portfolio
+
+This repository showcases a curated set of academic projects across cybersecurity, software engineering, systems administration, and data management. Each document reflects high-level thinking, practical implementation, and domain-specific knowledge in IT and security.
 
 ---
-# Table of Contents
 
-- [Risk Management Plan](#risk-management-plan)
-- [Disk Encryption Technology](#disk-encryption-tech)
-- [Symmetric vs Asymmetric Encryption](#symmetricvsasymmetric)
+## 📚 Table of Contents
 
+### 🛡️ Cybersecurity Strategy & Policy
+- [Defense in Depth for EZTechMovie](./Defense%20in%20Depth.pdf)
+- [Rules of Engagement](./Rules%20of%20Engagement.pdf)
+- [Risk Management Plan](./Risk%20Management%20Plan.pdf)
 
-------------
-### Disk Encryption Technology
-------------
-![Disk Encryption Technology docx_Page_1](https://github.com/user-attachments/assets/aaf2cc1a-1e9a-4f98-8e10-b36f75244d53)
-![Disk Encryption Technology docx_Page_2](https://github.com/user-attachments/assets/a0b215e6-c31d-4804-b97a-b7520fe0de42)
-![Disk Encryption Technology docx_Page_3](https://github.com/user-attachments/assets/4d36b30d-a4e9-434c-afe3-ea7ccb21054c)
-![Disk Encryption Technology docx_Page_4](https://github.com/user-attachments/assets/3a18d4fc-c241-42d4-8282-e5ba1d885eea)
-------------
-### Symmetric vs Asymmetric Encryption
-------------
-![symmetric vs asymmetric encryption docx_Page_1](https://github.com/user-attachments/assets/df1c6581-657a-4bbd-ae71-9d24a0a3dfd0)
-![symmetric vs asymmetric encryption docx_Page_2](https://github.com/user-attachments/assets/2f80b960-cafd-40ec-8e9b-67a7663dcae5)
-![symmetric vs asymmetric encryption docx_Page_3](https://github.com/user-attachments/assets/ebd05bae-a453-4548-ac49-1cbd727e9ad5)
-![symmetric vs asymmetric encryption docx_Page_4](https://github.com/user-attachments/assets/aacda1ed-206d-4925-9277-db946d12711b)
-![symmetric vs asymmetric encryption docx_Page_5](https://github.com/user-attachments/assets/ef5ad04c-803d-4c00-9b57-7545df151785)
+### 🔐 Cryptography & Encryption
+- [Cryptography Best Practices](./Cryptography%20Best%20Practices.pdf)
+- [Symmetric vs Asymmetric Encryption](./Asymmetric%20vs%20Symmetric%20encryption.pdf)
 
+### 💾 Systems & Software
+- [System Administrator Mock Role](./Sys%20Admin%20Mock%20Role.pdf)
+- [Software Engineering Concept Map & Paper](./Software%20Engineering%20Concept%20Map%20and%20Paper.pdf)
+- [Security Development Lifecycle](./Security%20Development%20Life%20Cycle.pdf)
 
+### 📈 Program Design & Databases
+- [Employee Management System (Python)](./Employee%20Management%20System.py.pdf)
+- [Database Systems & Management Final](./Database%20Systems%20&%20Management%20Final.pdf)
+- [ROI Calculator (Java)](./ROI%20Program.pdf)
+
+### 🔁 Agile & Operating Systems
+- [Scrum Basics Overview](./Scrum%20Basics%20Overview.pdf)
+- [Operating System Concept Map](./OS%20Theory%20Concept%20Map.pdf)
+
+### 🌐 Networking & Digital Forensics
+- [Network Design Proposal](./Network%20Design%20Proposal.pdf)
+- [Digital Evidence Forensics Report](./Final%20CYB402%20DIGITAL%20EVIDENCE%20FORENSIC%20WEEKLY%205%20Final.docx)
+
+---
+
+## 🔍 Highlights
+
+### 📌 Cybersecurity Essentials
+A complete walkthrough of layered defense strategies (Defense in Depth), a realistic engagement plan for red team/blue team testing (Rules of Engagement), and a real-world risk analysis for Apple’s enterprise structure.
+
+### 📌 Encryption Mastery
+Strong foundational work explaining cryptographic standards, practical use cases, and implementation strategies for both symmetric and asymmetric encryption, supported by security planning advice.
+
+### 📌 Engineering & DevOps Concepts
+Projects simulate the role of a sysadmin, show the transition from waterfall to agile, and propose the full software development lifecycle (SDLC) for secure systems.
+
+### 📌 Database & Development
+Hands-on work with MySQL database creation, employee data tracking via Python scripting, and return-on-investment logic built in Java.
+
+---
+
+## 🧾 Usage
+
+This repository is structured by topic, with each file representing a capstone-level or final project submission. You are free to use this portfolio as:
+- A reference for hiring managers during interviews
+- A framework for academic learning
+- A demonstration of applied technical skills
+
+---
+
+📬 *For direct contact or inquiries, reach me via LinkedIn or GitHub profile.*
 
