@@ -31,7 +31,7 @@ This repository showcases a curated set of academic projects across cybersecurit
 
 ### 🌐 Networking & Digital Forensics
 - [Network Design Proposal](./Network%20Design%20Proposal.pdf)
-- [Digital Evidence Forensics Report](./Final%20CYB402%20DIGITAL%20EVIDENCE%20FORENSIC%20WEEKLY%205%20Final.docx)
+- [Digital Evidence Forensics Report](./Digital%20Evidence%20Forensic%20Report.pdf)
 
 ---
 
@@ -61,4 +61,3 @@ This repository is structured by topic, with each file representing a capstone-l
 ---
 
 📬 *For direct contact or inquiries, reach me via LinkedIn or GitHub profile.*
-
